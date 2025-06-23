@@ -20,8 +20,6 @@
 
 <h1 align="center">Gabriel Dias Felipe 👋</h1>
 
-###
-
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas<br>📍 Brasília, DF |🎓 UCB - Universidade Católica de Brasília (2024–2026)  <br>📫 gabrieldiasvagas9@gmail.com | https://linkedin.com/in/gabrieldiasfelipe</p>
 
 ###
