@@ -44,12 +44,3 @@
 
 <p align="left">🔧 Ferramentas: Excel avançado (XLOOKUP, INDICE, FILTRO), Google Sheets (ARRAYFORMULA, QUERY)<br>🗄️ Banco de dados: SQL (SELECT, JOIN, GROUP BY, subconsultas, DML/DDL)<br>📈 BI: Power BI (Power Query, DAX)<br>🐍 Linguagem: Python (listas, dicionários, manipulação de CSV)<br>🗺️ Modelagem: Diagramas ER e normalização de dados<br>⚙️ Operacional: Sistema KN/Meli (inventário e expedição)<br>🔄 Metodologia: Lean Six Sigma White Belt (DMAIC)</p>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/Gabriel-Dias-Felipe/Gabriel-Dias-Felipe/output/snake.svg" alt="Snake animation" />
-
-###
